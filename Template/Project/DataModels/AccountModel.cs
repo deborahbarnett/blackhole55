@@ -7,10 +7,6 @@
     public string Password { get; set; }
 
     public string FullName { get; set; }
-    public string Phone2 { get; set; }
-
-
-    public string Address2 { get; set; }
 
 
     public AccountModel(Int64 id, string email, string password, string fullname)
