@@ -17,6 +17,11 @@
         FullName = fullname;
     }
 
+    public int GetMagicNumber()
+    {
+        return 2;
+    }
+
 
 }
 
