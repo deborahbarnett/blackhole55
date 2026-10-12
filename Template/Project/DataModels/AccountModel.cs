@@ -19,7 +19,7 @@
 
     public int GetMagicNumber()
     {
-        return 3;
+        return 4;
     }
 }
 
